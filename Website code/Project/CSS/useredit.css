@@ -1,0 +1,22 @@
+#useredit{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+
+#useredit input, 
+#useredit textarea{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+} 
+
+#useredit label{
+   font-size: 1.3rem;
+   font-family: 'Bree Serif', serif;
+
+}

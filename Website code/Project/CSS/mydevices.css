@@ -1,0 +1,47 @@
+#userlogin{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+}
+
+
+#userlogin input, 
+#userlogin textarea{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+} 
+
+#userlogin label{
+   font-size: 1.3rem;
+   font-family: 'Bree Serif', serif;
+
+}
+
+table{
+    border: 2px solid darkblue;
+    width: 60%;
+    margin: auto;
+    margin-top: 50px;
+    border-collapse: unset;
+}
+
+table tbody tr td {
+    background-color: rgb(212 243 239);
+    border: 2px solid darkblue;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+table thead tr th{
+    background-color: aqua;
+    border: 2px solid darkblue;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Bree Serif', serif;
+    font-size: 1.5rem;
+}

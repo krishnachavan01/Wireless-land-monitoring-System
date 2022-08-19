@@ -1,0 +1,22 @@
+#newdevice{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+
+#newdevice input, 
+#newdevice textarea{
+    width: 100%;
+    padding: 0.5rem;
+    border-radius: 9px;
+    font-size: 1.1rem;
+} 
+
+#newdevice label{
+   font-size: 1.3rem;
+   font-family: 'Bree Serif', serif;
+
+}

@@ -1,0 +1,22 @@
+#home{
+    display: flex;
+      flex-direction: column;
+      padding: 75px 180px;
+      height: 490px;
+} 
+  
+#home::before {
+    content: "";
+    position: absolute;
+    background: url('../Images/bg.jpg') no-repeat center center/cover;
+    top: 78px;
+    left: 0px;
+    height: 577px;
+    width: 100%;
+    z-index: -1;
+    opacity: 0.70;
+}
+
+.h-primary{
+    padding-top: 145px;
+}

@@ -1,0 +1,36 @@
+.h-primary{
+    font-size: 3rem;
+    color: rgb(54, 1, 92);
+    font-family: 'Bree Serif', serif;
+ }
+
+.centre{
+  text-align: center;
+ }
+
+.bn{
+    padding: 5px 61px;
+    margin: 0px 140px;
+    background-color: lightgreen;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    font-family: 'Bree Serif', serif;
+    cursor: pointer;
+}
+
+.input{
+    padding: 20px;
+}
+
+.h-secondary{
+  font-size: 2rem;
+  padding: 40px;
+  color:rgb(54, 1, 92);
+  font-family: 'Bree Serif', serif;
+}
+
+.p{
+    font-size: 2rem;
+    padding: 15px;
+    color: rgb(75, 10, 42);
+}
